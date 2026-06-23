@@ -1,0 +1,17 @@
+.percentsList {
+    display: flex;
+    list-style: none;
+    /* gap: 30px; */
+    padding: 0;
+}
+
+.card {
+    background-color: white;
+    display: inline;
+    width: fit-content;
+}
+
+.title {
+    padding-top: 50px;
+    color: rgb(63, 63, 63);
+}

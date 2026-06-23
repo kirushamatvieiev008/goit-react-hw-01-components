@@ -1,0 +1,6 @@
+.listItem {
+    background-color: var(--color);
+    /* width: 100%; */
+    display: block;
+    width: 100px;
+}

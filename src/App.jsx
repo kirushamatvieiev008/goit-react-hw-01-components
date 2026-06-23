@@ -26,7 +26,7 @@ function App() {
         title="Upload stats"
         stats={statisticsData}
       />
-      <Statistics stats={statisticsData} />
+      {/* <Statistics stats={statisticsData} /> */}
       <Friends friends={friendsData} />
       <TransactionHistory items={transaction}/>
     </>
