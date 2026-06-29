@@ -1,0 +1,42 @@
+.rowHead {
+
+    background-color: rgb(43, 113, 153);
+    height: 50px;
+    padding: 0;
+    th {
+        padding: 0;
+        outline: solid 1px rgb(233, 233, 233);
+    }
+}
+
+/* thead {
+    border: none;
+    padding: 0;
+    
+} */
+
+table {
+    width: 600px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    /* border: 5px solid green; */
+
+    border-spacing: 0;
+    /* line-height: 0; */
+}
+
+.duo {
+    background-color: rgb(255, 255, 255);
+    td {
+        outline: solid 1px rgb(233, 233, 233);
+        
+    }
+}
+
+.uno {
+    background-color: rgb(197, 197, 197);
+    td {
+        outline: solid 1px rgb(233, 233, 233);
+        
+    }
+}

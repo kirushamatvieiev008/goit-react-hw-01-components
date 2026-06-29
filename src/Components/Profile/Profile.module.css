@@ -1,0 +1,44 @@
+.item {
+    background-color: white;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 200px;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+.avatar {
+    width: 100px;
+    padding-top: 20px;
+    border-radius: 50%;
+}
+
+.name {
+    color: black;
+}
+
+.location {
+    padding-top: 20px;
+}
+
+.plusInfo {
+    margin: 0;
+    margin-top: 20px;
+    display: flex;
+    padding: 0;
+    width: 100%;
+    li {
+        background-color: rgb(226, 226, 226);
+        width: 100%;
+        outline: solid 1px rgb(190, 190, 190);
+        height: 75px;
+    }
+}
+
+.num {
+    color: black;
+    font-weight: 900;
+}
